@@ -1,1 +1,6 @@
 <?php
+
+function d8theme_preprocess_embeddable(&$variables) {
+  $variables['#attached']['library'][] = 'd8theme/embeddables';
+  $test = "Test";
+}

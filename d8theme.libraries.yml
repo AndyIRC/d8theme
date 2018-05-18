@@ -1,0 +1,4 @@
+embeddables:
+  css:
+    theme:
+      css/embeddables.css: {}
