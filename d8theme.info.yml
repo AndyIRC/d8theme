@@ -9,6 +9,11 @@ regions:
   content: Content
   footer: Footer
 
+#libraries-override:
+#  system/base: false
+
 libraries-extend:
   ef/pull_quote:
     - d8theme/pull_quote
+  ef/rich_text:
+    - d8theme/rich_text
