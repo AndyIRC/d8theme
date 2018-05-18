@@ -1,4 +1,4 @@
-embeddables:
+pull_quote:
   css:
     theme:
-      css/embeddables.css: {}
+      css/pull_quote.css: {}
