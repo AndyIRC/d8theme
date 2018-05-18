@@ -1,0 +1,10 @@
+name: D8 Theme
+type: theme
+description: 'Proto-theme for next version of our site. Not sure if this will be a base theme or quite what ... time will tell'
+core: 8.x
+packgage: ef
+base theme: false
+regions:
+  header: Header
+  content: Content
+  footer: Footer
