@@ -1,1 +1,15 @@
 <?php
+
+/**
+ * Implements hook_library_info_alter
+ *
+ * @param $libraries
+ * @param $extension
+ */
+//function d8theme_library_info_alter(&$libraries, $extension) {
+//  if (\Drupal::currentUser()->isAnonymous()) {
+//    if ($extension == 'system') {
+//      unset ($libraries['base']);
+//    }
+//  }
+//}
