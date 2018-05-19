@@ -1,9 +1,9 @@
-pull_quote:
-  css:
-    theme:
-      css/pull_quote.css: {}
-
-rich_text:
-  css:
-    theme:
-      css/rich_text.css: {}
+#pull_quote:
+#  css:
+#    theme:
+#      css/pull_quote.css: {}
+#
+#rich_text:
+#  css:
+#    theme:
+#      css/rich_text.css: {}
